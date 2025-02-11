@@ -1,6 +1,6 @@
 # TestPullMerge
 Test the merging of local code when pulling from a modified repository
-* John Smith
+* Jamell Alvarez
 * Jane Doe
 * Greg Schaper
 * Another Developer
